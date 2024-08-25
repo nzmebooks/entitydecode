@@ -1,5 +1,9 @@
 # Cookies Changelog
 
+## 4.0.0 - 2024.08.25
+### Changed
+* Craft 5 release
+
 ## 3.0.0 - 2022.05.28
 ### Changed
 * Craft 4 release
